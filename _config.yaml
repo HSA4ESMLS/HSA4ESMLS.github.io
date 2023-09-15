@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: HSA4ESMLS
 subtitle: "PPoSS: LARGE: Co-designing Hardware, Software, and Algorithms to Enable Extreme-Scale Machine Learning Systems.\n University of Virginia; University of Maryland, College Park & University of Pittsburgh; Saint Louis University"
-description: "The newly emerging AI of Things (AIoT) and Internet of Senses (IoS) systems will make mobile and embedded devices smart, communicative, and powerful to process data and make intelligent decisions, by integrating the Internet of Things (IoT) and Artificial Intelligence (AI). "
+description: test description.
 header: images/background.jpg
 footer: images/background.jpg
 
