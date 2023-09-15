@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: HSA4ESMLS
-subtitle: "PPoSS: LARGE: Co-designing Hardware, Software, and Algorithms to Enable Extreme-Scale Machine Learning Systems.\n University of Virginia; University of Maryland, College Park & University of Pittsburgh; Saint Louis University"
-description: test description.
+subtitle: "PPoSS: LARGE: Co-designing Hardware, Software, and Algorithms to Enable Extreme-Scale Machine Learning Systems"
+description: description shown on search engine.
 header: images/background.jpg
 footer: images/background.jpg
 
