@@ -62,22 +62,3 @@ Lingxi Wu, Rahul Sreekumar, Rasool Sharifi, Kevin Skadron, Mircea Stan, Ashish V
 Jiechao Gao, Wenpeng Wang, Fateme Nikseresht, Viswajith Govinda Rajan, and Bradford Campbell. PFDRL: Personalized Federated Deep Reinforcement Learning for Residential Energy Management. In Proceedings of the 52nd International Conference on Parallel Processing (ICPP ’23).
 
 Fateme Nikseresht, Wenpeng Wang, Viswajith Govinda Rajan, Jiechao Gao, and Bradford Campbell. Enabling Ubiquitous Occupancy Detection in Smart Buildings: A WiFi FTM-based Approach. In 2023 19th International Conference on Distributed Computing in Sensor Systems (DCOSS).
-
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %} -->
