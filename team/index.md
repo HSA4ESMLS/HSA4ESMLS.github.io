@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Meet our PIs from University of Virginia, University of Maryland College Park, University of Pittsburgh and Saint Louis University.
+Meet our PIs.
 
 {% include section.html %}
 
