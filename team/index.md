@@ -7,20 +7,20 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Meet our team from University of Virginia, University of Maryland College Park, University of Pittsburgh and Saint Louis University.
+Meet our PIs from University of Virginia, University of Maryland College Park, University of Pittsburgh and Saint Louis University.
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Meet our team members.
 
 {% include section.html %}
+
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% capture content %}
 

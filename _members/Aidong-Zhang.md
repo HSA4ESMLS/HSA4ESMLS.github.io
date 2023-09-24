@@ -10,6 +10,7 @@ links:
   # orcid: 
 ---
 
+Thomas M. Linville Professor, University of Virginia
 
 Dr. Aidong Zhang develops machine learning and data science approaches to modeling and analysis of structured and unstructured data with applications to biological, biomedical and health related applications. Dr. Zhang is Thomas M. Linville Professor of Computer Science, with a joint appointment in the Department of Biomedical Engineering and School of Data Science at University of Virginia. She received her Ph.D. in Computer Science from Purdue University.
 
