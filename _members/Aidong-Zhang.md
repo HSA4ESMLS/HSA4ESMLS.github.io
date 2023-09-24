@@ -7,7 +7,7 @@ role: pi
 #   - J Smith
 links:
   home-page: https://www.cs.virginia.edu/~az9eg/website/home.html
-  scholar: https://scholar.google.com/citations?hl=en&user=O8XxkE4AAAAJ
+  # orcid: 
 ---
 
 
