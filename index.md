@@ -15,7 +15,7 @@ The primary goal of this project is to build a new co-designed framework of hard
 
 {% capture text %}
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->
+Meet our team from University of Virginia, University of Maryland College Park, University of Pittsburgh and Saint Louis University.
 
 {%
   include button.html
