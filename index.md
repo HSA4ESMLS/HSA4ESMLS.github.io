@@ -78,7 +78,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="publications"
-  title="Our Results"
+  title="Our Publications"
   text=text
 %}
 
