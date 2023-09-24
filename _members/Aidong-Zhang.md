@@ -6,7 +6,7 @@ role: pi
 #   - J. Smith
 #   - J Smith
 links:
-  home-page: https://www.cs.virginia.edu/~az9eg/website/home.html
+  home-page: https://engineering.virginia.edu/faculty/aidong-zhang
   # orcid: 
 ---
 
