@@ -11,11 +11,11 @@ postdoc:
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-microscope
   description: PhD 
 
 md:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-microscope
   description: MD 
 
 phdS:
