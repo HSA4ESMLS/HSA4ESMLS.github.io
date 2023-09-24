@@ -79,8 +79,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image="images/photo.jpg"
   link="projects"
   title="Our Projects"
-  <!-- flip=true
-  style="bare" -->
   text=text
 %}
 
