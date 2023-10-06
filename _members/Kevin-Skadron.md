@@ -1,6 +1,6 @@
 ---
 name: Kevin Skadron
-image: images/photo.jpg
+image: images/KevinSkadron.jpg
 role: phd
 # aliases:
 #   - J. Smith

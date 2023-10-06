@@ -1,6 +1,6 @@
 ---
 name: Samuel Dickerson
-image: images/photo.jpg
+image: images/SamuelDickerson.jpg
 role: phd
 # aliases:
 #   - J. Smith

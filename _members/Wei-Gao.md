@@ -1,6 +1,6 @@
 ---
 name: Wei Gao
-image: images/photo.jpg
+image: images/WeiGao.jpg
 role: phd
 # aliases:
 #   - J. Smith

@@ -1,6 +1,6 @@
 ---
 name: Dwyer Noelle
-image: images/photo.jpg
+image: images/DwyerNoelle.jpg
 role: phd
 # aliases:
 #   - J. Smith

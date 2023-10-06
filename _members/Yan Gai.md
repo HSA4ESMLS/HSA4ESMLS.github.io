@@ -1,6 +1,6 @@
 ---
 name: Yan Gai
-image: images/photo.jpg
+image: images/YanGai.jpg
 role: pi
 # aliases:
 #   - J. Smith

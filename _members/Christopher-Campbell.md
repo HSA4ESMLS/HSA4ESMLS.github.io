@@ -1,6 +1,6 @@
 ---
 name: Christopher A Campbell
-image: images/photo.jpg
+image: images/ChristopherACampbell.jpg
 role: md
 # aliases:
 #   - J. Smith

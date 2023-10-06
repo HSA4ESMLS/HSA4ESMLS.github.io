@@ -1,6 +1,6 @@
 ---
 name: Yonghwi Kwon
-image: images/photo.jpg
+image: images/YonghwiKwon.jpg
 role: phd
 # aliases:
 #   - J. Smith
