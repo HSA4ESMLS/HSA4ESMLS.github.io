@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publication
+# {% include icon.html icon="fa-solid fa-book-open" %}Publication
 
 Junyi Li, Heng Huang. “Resolving the Tug-of-War: A Separation of Communication and Learning in Federated Learning”. Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS 2023), in press.
 
